@@ -8,3 +8,7 @@ DataSet:
 https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html 
 
 ![plot](dig.png)
+
+- sample output
+
+![plot](op.png)
